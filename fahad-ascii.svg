@@ -1,0 +1,851 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="880" viewBox="0 0 840 880" role="img" aria-labelledby="title desc">
+<title id="title">Fahad Arshad: ASCII portrait</title><desc id="desc">A background-free monochrome ASCII portrait. Rows type in once over six seconds.</desc>
+<g font-family="&#x27;DejaVu Sans Mono&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace">
+<rect x="0.5" y="0.5" width="839" height="879" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M12 1 H828 Q839 1 839 12 V30 H1 V12 Q1 1 12 1" fill="#111722"/>
+<path d="M1 30 H839" stroke="#30363d"/>
+<circle cx="20" cy="15" r="5" fill="#ff5f57"/><circle cx="36" cy="15" r="5" fill="#febc2e"/><circle cx="52" cy="15" r="5" fill="#28c840"/>
+<text x="420.0" y="19" font-size="12" fill="#7d8590" text-anchor="middle">fahad@github:~$ ./portrait.sh</text>
+<style>@media(prefers-reduced-motion:reduce){.reveal{width:792px!important}.cursor{display:none}}</style>
+<defs>
+<clipPath id="row-0"><rect class="reveal" x="24" y="48.000" width="792" height="8.258">
+<animate attributeName="width" from="0" to="792" begin="0.00000s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-1"><rect class="reveal" x="24" y="56.258" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="0.06452s"/>
+<animate attributeName="width" from="0" to="792" begin="0.06452s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-2"><rect class="reveal" x="24" y="64.516" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="0.12903s"/>
+<animate attributeName="width" from="0" to="792" begin="0.12903s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-3"><rect class="reveal" x="24" y="72.774" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="0.19355s"/>
+<animate attributeName="width" from="0" to="792" begin="0.19355s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-4"><rect class="reveal" x="24" y="81.032" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="0.25806s"/>
+<animate attributeName="width" from="0" to="792" begin="0.25806s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-5"><rect class="reveal" x="24" y="89.290" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="0.32258s"/>
+<animate attributeName="width" from="0" to="792" begin="0.32258s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-6"><rect class="reveal" x="24" y="97.548" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="0.38710s"/>
+<animate attributeName="width" from="0" to="792" begin="0.38710s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-7"><rect class="reveal" x="24" y="105.806" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="0.45161s"/>
+<animate attributeName="width" from="0" to="792" begin="0.45161s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-8"><rect class="reveal" x="24" y="114.065" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="0.51613s"/>
+<animate attributeName="width" from="0" to="792" begin="0.51613s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-9"><rect class="reveal" x="24" y="122.323" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="0.58065s"/>
+<animate attributeName="width" from="0" to="792" begin="0.58065s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-10"><rect class="reveal" x="24" y="130.581" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="0.64516s"/>
+<animate attributeName="width" from="0" to="792" begin="0.64516s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-11"><rect class="reveal" x="24" y="138.839" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="0.70968s"/>
+<animate attributeName="width" from="0" to="792" begin="0.70968s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-12"><rect class="reveal" x="24" y="147.097" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="0.77419s"/>
+<animate attributeName="width" from="0" to="792" begin="0.77419s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-13"><rect class="reveal" x="24" y="155.355" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="0.83871s"/>
+<animate attributeName="width" from="0" to="792" begin="0.83871s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-14"><rect class="reveal" x="24" y="163.613" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="0.90323s"/>
+<animate attributeName="width" from="0" to="792" begin="0.90323s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-15"><rect class="reveal" x="24" y="171.871" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="0.96774s"/>
+<animate attributeName="width" from="0" to="792" begin="0.96774s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-16"><rect class="reveal" x="24" y="180.129" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="1.03226s"/>
+<animate attributeName="width" from="0" to="792" begin="1.03226s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-17"><rect class="reveal" x="24" y="188.387" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="1.09677s"/>
+<animate attributeName="width" from="0" to="792" begin="1.09677s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-18"><rect class="reveal" x="24" y="196.645" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="1.16129s"/>
+<animate attributeName="width" from="0" to="792" begin="1.16129s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-19"><rect class="reveal" x="24" y="204.903" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="1.22581s"/>
+<animate attributeName="width" from="0" to="792" begin="1.22581s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-20"><rect class="reveal" x="24" y="213.161" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="1.29032s"/>
+<animate attributeName="width" from="0" to="792" begin="1.29032s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-21"><rect class="reveal" x="24" y="221.419" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="1.35484s"/>
+<animate attributeName="width" from="0" to="792" begin="1.35484s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-22"><rect class="reveal" x="24" y="229.677" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="1.41935s"/>
+<animate attributeName="width" from="0" to="792" begin="1.41935s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-23"><rect class="reveal" x="24" y="237.935" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="1.48387s"/>
+<animate attributeName="width" from="0" to="792" begin="1.48387s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-24"><rect class="reveal" x="24" y="246.194" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="1.54839s"/>
+<animate attributeName="width" from="0" to="792" begin="1.54839s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-25"><rect class="reveal" x="24" y="254.452" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="1.61290s"/>
+<animate attributeName="width" from="0" to="792" begin="1.61290s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-26"><rect class="reveal" x="24" y="262.710" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="1.67742s"/>
+<animate attributeName="width" from="0" to="792" begin="1.67742s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-27"><rect class="reveal" x="24" y="270.968" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="1.74194s"/>
+<animate attributeName="width" from="0" to="792" begin="1.74194s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-28"><rect class="reveal" x="24" y="279.226" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="1.80645s"/>
+<animate attributeName="width" from="0" to="792" begin="1.80645s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-29"><rect class="reveal" x="24" y="287.484" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="1.87097s"/>
+<animate attributeName="width" from="0" to="792" begin="1.87097s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-30"><rect class="reveal" x="24" y="295.742" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="1.93548s"/>
+<animate attributeName="width" from="0" to="792" begin="1.93548s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-31"><rect class="reveal" x="24" y="304.000" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="2.00000s"/>
+<animate attributeName="width" from="0" to="792" begin="2.00000s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-32"><rect class="reveal" x="24" y="312.258" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="2.06452s"/>
+<animate attributeName="width" from="0" to="792" begin="2.06452s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-33"><rect class="reveal" x="24" y="320.516" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="2.12903s"/>
+<animate attributeName="width" from="0" to="792" begin="2.12903s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-34"><rect class="reveal" x="24" y="328.774" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="2.19355s"/>
+<animate attributeName="width" from="0" to="792" begin="2.19355s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-35"><rect class="reveal" x="24" y="337.032" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="2.25806s"/>
+<animate attributeName="width" from="0" to="792" begin="2.25806s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-36"><rect class="reveal" x="24" y="345.290" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="2.32258s"/>
+<animate attributeName="width" from="0" to="792" begin="2.32258s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-37"><rect class="reveal" x="24" y="353.548" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="2.38710s"/>
+<animate attributeName="width" from="0" to="792" begin="2.38710s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-38"><rect class="reveal" x="24" y="361.806" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="2.45161s"/>
+<animate attributeName="width" from="0" to="792" begin="2.45161s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-39"><rect class="reveal" x="24" y="370.065" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="2.51613s"/>
+<animate attributeName="width" from="0" to="792" begin="2.51613s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-40"><rect class="reveal" x="24" y="378.323" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="2.58065s"/>
+<animate attributeName="width" from="0" to="792" begin="2.58065s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-41"><rect class="reveal" x="24" y="386.581" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="2.64516s"/>
+<animate attributeName="width" from="0" to="792" begin="2.64516s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-42"><rect class="reveal" x="24" y="394.839" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="2.70968s"/>
+<animate attributeName="width" from="0" to="792" begin="2.70968s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-43"><rect class="reveal" x="24" y="403.097" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="2.77419s"/>
+<animate attributeName="width" from="0" to="792" begin="2.77419s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-44"><rect class="reveal" x="24" y="411.355" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="2.83871s"/>
+<animate attributeName="width" from="0" to="792" begin="2.83871s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-45"><rect class="reveal" x="24" y="419.613" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="2.90323s"/>
+<animate attributeName="width" from="0" to="792" begin="2.90323s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-46"><rect class="reveal" x="24" y="427.871" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="2.96774s"/>
+<animate attributeName="width" from="0" to="792" begin="2.96774s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-47"><rect class="reveal" x="24" y="436.129" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="3.03226s"/>
+<animate attributeName="width" from="0" to="792" begin="3.03226s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-48"><rect class="reveal" x="24" y="444.387" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="3.09677s"/>
+<animate attributeName="width" from="0" to="792" begin="3.09677s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-49"><rect class="reveal" x="24" y="452.645" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="3.16129s"/>
+<animate attributeName="width" from="0" to="792" begin="3.16129s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-50"><rect class="reveal" x="24" y="460.903" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="3.22581s"/>
+<animate attributeName="width" from="0" to="792" begin="3.22581s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-51"><rect class="reveal" x="24" y="469.161" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="3.29032s"/>
+<animate attributeName="width" from="0" to="792" begin="3.29032s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-52"><rect class="reveal" x="24" y="477.419" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="3.35484s"/>
+<animate attributeName="width" from="0" to="792" begin="3.35484s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-53"><rect class="reveal" x="24" y="485.677" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="3.41935s"/>
+<animate attributeName="width" from="0" to="792" begin="3.41935s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-54"><rect class="reveal" x="24" y="493.935" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="3.48387s"/>
+<animate attributeName="width" from="0" to="792" begin="3.48387s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-55"><rect class="reveal" x="24" y="502.194" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="3.54839s"/>
+<animate attributeName="width" from="0" to="792" begin="3.54839s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-56"><rect class="reveal" x="24" y="510.452" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="3.61290s"/>
+<animate attributeName="width" from="0" to="792" begin="3.61290s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-57"><rect class="reveal" x="24" y="518.710" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="3.67742s"/>
+<animate attributeName="width" from="0" to="792" begin="3.67742s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-58"><rect class="reveal" x="24" y="526.968" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="3.74194s"/>
+<animate attributeName="width" from="0" to="792" begin="3.74194s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-59"><rect class="reveal" x="24" y="535.226" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="3.80645s"/>
+<animate attributeName="width" from="0" to="792" begin="3.80645s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-60"><rect class="reveal" x="24" y="543.484" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="3.87097s"/>
+<animate attributeName="width" from="0" to="792" begin="3.87097s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-61"><rect class="reveal" x="24" y="551.742" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="3.93548s"/>
+<animate attributeName="width" from="0" to="792" begin="3.93548s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-62"><rect class="reveal" x="24" y="560.000" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="4.00000s"/>
+<animate attributeName="width" from="0" to="792" begin="4.00000s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-63"><rect class="reveal" x="24" y="568.258" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="4.06452s"/>
+<animate attributeName="width" from="0" to="792" begin="4.06452s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-64"><rect class="reveal" x="24" y="576.516" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="4.12903s"/>
+<animate attributeName="width" from="0" to="792" begin="4.12903s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-65"><rect class="reveal" x="24" y="584.774" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="4.19355s"/>
+<animate attributeName="width" from="0" to="792" begin="4.19355s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-66"><rect class="reveal" x="24" y="593.032" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="4.25806s"/>
+<animate attributeName="width" from="0" to="792" begin="4.25806s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-67"><rect class="reveal" x="24" y="601.290" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="4.32258s"/>
+<animate attributeName="width" from="0" to="792" begin="4.32258s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-68"><rect class="reveal" x="24" y="609.548" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="4.38710s"/>
+<animate attributeName="width" from="0" to="792" begin="4.38710s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-69"><rect class="reveal" x="24" y="617.806" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="4.45161s"/>
+<animate attributeName="width" from="0" to="792" begin="4.45161s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-70"><rect class="reveal" x="24" y="626.065" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="4.51613s"/>
+<animate attributeName="width" from="0" to="792" begin="4.51613s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-71"><rect class="reveal" x="24" y="634.323" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="4.58065s"/>
+<animate attributeName="width" from="0" to="792" begin="4.58065s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-72"><rect class="reveal" x="24" y="642.581" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="4.64516s"/>
+<animate attributeName="width" from="0" to="792" begin="4.64516s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-73"><rect class="reveal" x="24" y="650.839" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="4.70968s"/>
+<animate attributeName="width" from="0" to="792" begin="4.70968s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-74"><rect class="reveal" x="24" y="659.097" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="4.77419s"/>
+<animate attributeName="width" from="0" to="792" begin="4.77419s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-75"><rect class="reveal" x="24" y="667.355" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="4.83871s"/>
+<animate attributeName="width" from="0" to="792" begin="4.83871s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-76"><rect class="reveal" x="24" y="675.613" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="4.90323s"/>
+<animate attributeName="width" from="0" to="792" begin="4.90323s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-77"><rect class="reveal" x="24" y="683.871" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="4.96774s"/>
+<animate attributeName="width" from="0" to="792" begin="4.96774s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-78"><rect class="reveal" x="24" y="692.129" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="5.03226s"/>
+<animate attributeName="width" from="0" to="792" begin="5.03226s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-79"><rect class="reveal" x="24" y="700.387" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="5.09677s"/>
+<animate attributeName="width" from="0" to="792" begin="5.09677s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-80"><rect class="reveal" x="24" y="708.645" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="5.16129s"/>
+<animate attributeName="width" from="0" to="792" begin="5.16129s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-81"><rect class="reveal" x="24" y="716.903" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="5.22581s"/>
+<animate attributeName="width" from="0" to="792" begin="5.22581s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-82"><rect class="reveal" x="24" y="725.161" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="5.29032s"/>
+<animate attributeName="width" from="0" to="792" begin="5.29032s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-83"><rect class="reveal" x="24" y="733.419" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="5.35484s"/>
+<animate attributeName="width" from="0" to="792" begin="5.35484s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-84"><rect class="reveal" x="24" y="741.677" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="5.41935s"/>
+<animate attributeName="width" from="0" to="792" begin="5.41935s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-85"><rect class="reveal" x="24" y="749.935" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="5.48387s"/>
+<animate attributeName="width" from="0" to="792" begin="5.48387s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-86"><rect class="reveal" x="24" y="758.194" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="5.54839s"/>
+<animate attributeName="width" from="0" to="792" begin="5.54839s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-87"><rect class="reveal" x="24" y="766.452" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="5.61290s"/>
+<animate attributeName="width" from="0" to="792" begin="5.61290s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-88"><rect class="reveal" x="24" y="774.710" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="5.67742s"/>
+<animate attributeName="width" from="0" to="792" begin="5.67742s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-89"><rect class="reveal" x="24" y="782.968" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="5.74194s"/>
+<animate attributeName="width" from="0" to="792" begin="5.74194s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-90"><rect class="reveal" x="24" y="791.226" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="5.80645s"/>
+<animate attributeName="width" from="0" to="792" begin="5.80645s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-91"><rect class="reveal" x="24" y="799.484" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="5.87097s"/>
+<animate attributeName="width" from="0" to="792" begin="5.87097s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+<clipPath id="row-92"><rect class="reveal" x="24" y="807.742" width="792" height="8.258">
+<set attributeName="width" to="0" begin="0s" dur="5.93548s"/>
+<animate attributeName="width" from="0" to="792" begin="5.93548s" dur="0.06452s" fill="freeze"/>
+</rect></clipPath>
+</defs>
+<text x="24" y="54.689" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-0)">                                                                                                                                                                                    </text>
+<rect class="cursor" x="24" y="48.000" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="0.00000s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="0.00000s" dur="0.06452s"/>
+</rect>
+<text x="24" y="62.947" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-1)">                                                                                                                                                                                    </text>
+<rect class="cursor" x="24" y="56.258" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="0.06452s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="0.06452s" dur="0.06452s"/>
+</rect>
+<text x="24" y="71.205" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-2)">                                                                                                                                                                                    </text>
+<rect class="cursor" x="24" y="64.516" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="0.12903s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="0.12903s" dur="0.06452s"/>
+</rect>
+<text x="24" y="79.463" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-3)">                                                                            .`...                                                                                                   </text>
+<rect class="cursor" x="24" y="72.774" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="0.19355s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="0.19355s" dur="0.06452s"/>
+</rect>
+<text x="24" y="87.721" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-4)">                                                                  ...  `:-=*c**+++-`.``::-----::`.                                                                                  </text>
+<rect class="cursor" x="24" y="81.032" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="0.25806s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="0.25806s" dur="0.06452s"/>
+</rect>
+<text x="24" y="95.979" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-5)">                                                          .::`::=*ccc**cssssss##ss#scc**csssssc**++=-::------:.                                                                     </text>
+<rect class="cursor" x="24" y="89.290" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="0.32258s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="0.32258s" dur="0.06452s"/>
+</rect>
+<text x="24" y="104.237" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-6)">                                                        `=*cs#s##s##%##%########%%###ss#sssss#sssssccccccccc*++=:                                                                   </text>
+<rect class="cursor" x="24" y="97.548" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="0.38710s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="0.38710s" dur="0.06452s"/>
+</rect>
+<text x="24" y="112.495" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-7)">                                                   ..`-*ss##s#s##########%%%###s#%####%%%######ssscccccccsssssssc+:``.                                                              </text>
+<rect class="cursor" x="24" y="105.806" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="0.45161s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="0.45161s" dur="0.06452s"/>
+</rect>
+<text x="24" y="120.754" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-8)">                                                 .:=*s##s##sss#%@%#s####%%%%%%%##sss#s%@@%%%##ssccccscccsss####ssscccc*=:.                                                          </text>
+<rect class="cursor" x="24" y="114.065" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="0.51613s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="0.51613s" dur="0.06452s"/>
+</rect>
+<text x="24" y="129.012" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-9)">                                              .:=*s##s####sss##%%#s#ss##@%%%%%%%%#sss#%@%%%@%%%##sssss#ss####%##ssscccscc*=`                                                        </text>
+<rect class="cursor" x="24" y="122.323" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="0.58065s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="0.58065s" dur="0.06452s"/>
+</rect>
+<text x="24" y="137.270" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-10)">                                            .-*ss#scs##%%ssss##%##@%scs%%#%%%%@@%#s#sc#%@%##%%%%@%%##ss##ssssssss##sssscccsc=.                                                      </text>
+<rect class="cursor" x="24" y="130.581" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="0.64516s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="0.64516s" dur="0.06452s"/>
+</rect>
+<text x="24" y="145.528" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-11)">                                          `-*s#ssccss##sssss####%@@%cs##s#%##%@@%s#css#%%###s###%%@@%%#ss#scsssssccs#scccccss*=-`.                                                  </text>
+<rect class="cursor" x="24" y="138.839" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="0.70968s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="0.70968s" dur="0.06452s"/>
+</rect>
+<text x="24" y="153.786" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-12)">                                        .=cscccccs#ssscs####%%#%%%@%#%ss%%#cs%@%%####%##%###sssss@@%%%@@##%#ssssss#sssssscccccscsc*+==:.                                            </text>
+<rect class="cursor" x="24" y="147.097" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="0.77419s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="0.77419s" dur="0.06452s"/>
+</rect>
+<text x="24" y="162.044" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-13)">                                       -*ss**c#%%%sccs###%%%%#sss%%%%s#%%#ss###%%%@%%@%#%%##cscc*#@%sss#%%######%##%%%%###sssssssscsccc*+=:`                                        </text>
+<rect class="cursor" x="24" y="155.355" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="0.83871s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="0.83871s" dur="0.06452s"/>
+</rect>
+<text x="24" y="170.302" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-14)">                                    .:*csss#%%%##scc#%ss%###sccs############ss###%@@@%%%#%%#scsssc#@%sccss###s%@%css#%%@##ss#%%%%###sssscc*=`                                       </text>
+<rect class="cursor" x="24" y="163.613" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="0.90323s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="0.90323s" dur="0.06452s"/>
+</rect>
+<text x="24" y="178.560" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-15)">                                   .=scs##%#ssscccc##csssssscsssss##sssssssss###%%%%%##ss#scscsss#s#%%%##s#ss#%%s*sccsc%ssscc#%%%%###sssssss*-`                                     </text>
+<rect class="cursor" x="24" y="171.871" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="0.96774s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="0.96774s" dur="0.06452s"/>
+</rect>
+<text x="24" y="186.818" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-16)">                                  .*scs###ccsssccs#scscccccsssss##sccss#########sssscccssssss##ss##ss#%%###s####ss#cssc#ccsccs%%%%%%##sssssccc=`.                                   </text>
+<rect class="cursor" x="24" y="180.129" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="1.03226s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="1.03226s" dur="0.06452s"/>
+</rect>
+<text x="24" y="195.076" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-17)">                                `=cscs##ccssssc*s%scsccscccsccs#sccs#%%##sssscccsccssssssssss##ssccs##%#ssc###%%#%###ssscs#ssc######%###scssccc*-`.                                 </text>
+<rect class="cursor" x="24" y="188.387" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="1.09677s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="1.09677s" dur="0.06452s"/>
+</rect>
+<text x="24" y="203.334" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-18)">                               -ss#ss#sccs#ssccs#ccccsssscsscssccs#%#sscssscsssscs###ss#ssssscccss#####ssss########%%###s##s%#s#s##s#####ssscc***+-.                                </text>
+<rect class="cursor" x="24" y="196.645" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="1.16129s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="1.16129s" dur="0.06452s"/>
+</rect>
+<text x="24" y="211.592" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-19)">                              -ss##ssssss#scss##scc*ssssss#cssccs%#cccssssss##s###%#s##s#sssssss##sss##cs#ssscc*csss#####%%##%sssscs#####scssssc*++:                                </text>
+<rect class="cursor" x="24" y="204.903" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="1.22581s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="1.22581s" dur="0.06452s"/>
+</rect>
+<text x="24" y="219.850" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-20)">                             .*s##ssssscsscsss#ccccssssss%scsccs##ssss###ssss#%%%%######ssss#s##scsscsscc##scccccccccscscssssscsssccs#sssssssc##c++=.                               </text>
+<rect class="cursor" x="24" y="213.161" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="1.29032s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="1.29032s" dur="0.06452s"/>
+</rect>
+<text x="24" y="228.108" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-21)">                             .cs##sssssssssss%scssss####%#csccss%###cc##ssc*c###%##%###ss#####%#ccscssssc#%#scscccccccccccccc*cccscsscssss#sccs##c+`                                </text>
+<rect class="cursor" x="24" y="221.419" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="1.35484s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="1.35484s" dur="0.06452s"/>
+</rect>
+<text x="24" y="236.366" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-22)">                             .=c#ssss##ss#ss#%css#s#%ss#%#css###%%#ccssssccc####ss######%%%%#%#scssssss#ss#s#sscccsscsc*ccccccccccsssccccs#scccs##c-.                               </text>
+<rect class="cursor" x="24" y="229.677" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="1.41935s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="1.41935s" dur="0.06452s"/>
+</rect>
+<text x="24" y="244.625" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-23)">                              +#scss####ssss##s#####ss#%%ss#s%%#@#ccss##sssss##cccs##s#%######s######s###scssssscsssscccc*cssc*cccssssscss##sccss##c`                               </text>
+<rect class="cursor" x="24" y="237.935" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="1.48387s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="1.48387s" dur="0.06452s"/>
+</rect>
+<text x="24" y="252.883" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-24)">                             =#ssss###%%%#s###%%%%##s%%%#s#%#%%%%sss##%%##ss#sssccssssss###%%%%%%####%#scccssssscs##ssscccsss**ccssssssssss#ssssss%%*`                              </text>
+<rect class="cursor" x="24" y="246.194" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="1.54839s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="1.54839s" dur="0.06452s"/>
+</rect>
+<text x="24" y="261.141" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-25)">                            :#sss##%#%%%%#ss##%%%###%%##s#%#%%%#####%#%%#%##%ss#ssss######%%###%%%##%%sc*cscssscs####ssccssc*+*ccccsssssscssss##ss#%%s-                             </text>
+<rect class="cursor" x="24" y="254.452" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="1.61290s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="1.61290s" dur="0.06452s"/>
+</rect>
+<text x="24" y="269.399" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-26)">                            =#s#%###%%@%##sss#%%%%%#%#####%%@%sss%%%%#%%#%##%##%####%#%%%%%%%#%%%%%##sc*ccsssss######ssccc*+++*ccccsssssccssss#%#sss#c`                             </text>
+<rect class="cursor" x="24" y="262.710" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="1.67742s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="1.67742s" dur="0.06452s"/>
+</rect>
+<text x="24" y="277.657" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-27)">                            +##@#s##%%%ss###s#%%######%%%%@%%ss%#%%%###%@%%###%%%%%@%%%%%##sss##%###sssssssscs#%%#sccc*+++==++*cccsssssccccssss%%##scs:                             </text>
+<rect class="cursor" x="24" y="270.968" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="1.74194s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="1.74194s" dur="0.06452s"/>
+</rect>
+<text x="24" y="285.915" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-28)">                            =##%ss#%###s##s#ss%%#s###%%%%@%%##%%%%%%%%%%#%%s#%%#%%%%%#%#ssccssssssss##%###ss#%%#sc**+==---==+*csssccsscccsscscs#%ssscs*                             </text>
+<rect class="cursor" x="24" y="279.226" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="1.80645s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="1.80645s" dur="0.06452s"/>
+</rect>
+<text x="24" y="294.173" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-29)">                            +###ss###%ss##s%#s%%###%%%@%%%%%#%%%%%#%%%#s#%#s#%##%%####ssscccccc****cs###%%%##c+==-==+==-=+**ccssccsssccccssss*c##c#sccc:                            </text>
+<rect class="cursor" x="24" y="287.484" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="1.87097s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="1.87097s" dur="0.06452s"/>
+</rect>
+<text x="24" y="302.431" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-30)">                           .*#%%cs#s%%s#%#s%%##%%%##%%%%%%#%#%######%ss#####ss#ssss##sccc**c+++=----=+***+=-:`````:-=+**cccsss#sssscccs#%##c+*sscss#*:+:                            </text>
+<rect class="cursor" x="24" y="295.742" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="1.93548s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="1.93548s" dur="0.06452s"/>
+</rect>
+<text x="24" y="310.689" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-31)">                           .+%#%#ss#%%s#%%s#%%%#%##%%@%%%#####%#sss#######ssssccccsccc**+**+==::``:::````.........`::--------==+*ccss#sss**+*s#sss%%*`-:                            </text>
+<rect class="cursor" x="24" y="304.000" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="2.00000s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="2.00000s" dur="0.06452s"/>
+</rect>
+<text x="24" y="318.947" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-32)">                            =%#s####%###%@##%%%##%%%@%%%#s###%%####%#####scssc*c*+++**=++-=-::``````````.............```....  ..`:==-::::-+s%%sc+-#@s`-`                            </text>
+<rect class="cursor" x="24" y="312.258" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="2.06452s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="2.06452s" dur="0.06452s"/>
+</rect>
+<text x="24" y="327.205" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-33)">                            :##s%####%###%#%%%%##%%@%%%ss####%########ssc+*cc****==+==-==::`````...`...................  .`............```-++=-:`:=*s=-                             </text>
+<rect class="cursor" x="24" y="320.516" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="2.12903s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="2.12903s" dur="0.06452s"/>
+</rect>
+<text x="24" y="335.463" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-34)">                             =#%%#%%%#%%###%###%#%@%%##s########ss#sssc*++******+:+==--=:``........................    .-=++==-:::``````````````::=*-`                              </text>
+<rect class="cursor" x="24" y="328.774" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="2.19355s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="2.19355s" dur="0.06452s"/>
+</rect>
+<text x="24" y="343.721" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-35)">                              c%%s#%%s%%%%##%%#%#%@%#####%###%ss##ccsc*+***+++++=-=:---:.`.....   ..............   .``-+******ccc*+++===--:```:::-*#:                               </text>
+<rect class="cursor" x="24" y="337.032" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="2.25806s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="2.25806s" dur="0.06452s"/>
+</rect>
+<text x="24" y="351.979" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-36)">                              c#%#s##s#%%#s#%%##%%@#s%##%%###sc#%sccsc*+**+=+==-=--::::```.....    ...............:-=++++**ccsss#####sccc+-:::::=s#c.                               </text>
+<rect class="cursor" x="24" y="345.290" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="2.32258s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="2.32258s" dur="0.06452s"/>
+</rect>
+<text x="24" y="360.237" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-37)">                             .ss#%ss#s#%@s###%%%%%@##%%%%#%%#s#%#csc**++++-==-=--::::::`.`..      ...........```:-+++++++++++***cssssssc*+----=*##*.                                </text>
+<rect class="cursor" x="24" y="353.548" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="2.38710s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="2.38710s" dur="0.06452s"/>
+</rect>
+<text x="24" y="368.495" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-38)">                              *#%%%##s##%####%@%%%%##%@%@@%#ccss##sscc*+====----::`````....       ......`````:---============+*c*******+=----+cs*=                                  </text>
+<rect class="cursor" x="24" y="361.806" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="2.45161s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="2.45161s" dur="0.06452s"/>
+</rect>
+<text x="24" y="376.754" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-39)">                              `s%%%%%%#######%%%%%%%#%@@s=`    .`=+*++*===----::````.`.....        .....```:::-----=====----=+c#sc**++==--::+c*+-                                   </text>
+<rect class="cursor" x="24" y="370.065" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="2.51613s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="2.51613s" dur="0.06452s"/>
+</rect>
+<text x="24" y="385.012" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-40)">                              .s###%%%%%##%%#%%%%%%%#@%=  `:---:.  .````:-::--:`````......          ....``:::--==+++++====++s%%#sc*++=--:`.`=*++:                                   </text>
+<rect class="cursor" x="24" y="378.323" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="2.58065s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="2.58065s" dur="0.06452s"/>
+</rect>
+<text x="24" y="393.270" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-41)">                               +######%%#s#%%%%%%%%%%#: :=++====+=`...  ..`::::::`````.....     .........``::---==---+=--:::cssc=====-::`.  .+#s*-`                                 </text>
+<rect class="cursor" x="24" y="386.581" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="2.64516s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="2.64516s" dur="0.06452s"/>
+</rect>
+<text x="24" y="401.528" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-42)">                               .*##########%%%%@@%%%%- -===-::--=**-`...  ..`:-::`````............ .........````````::------+**+----:::``.    `:.                                   </text>
+<rect class="cursor" x="24" y="394.839" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="2.70968s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="2.70968s" dur="0.06452s"/>
+</rect>
+<text x="24" y="409.786" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-43)">                                .s#########%%%%%%%%%c.`=--:...`:-=--:```.....````````................         ....``:::-----===-:-::```...      .                                   </text>
+<rect class="cursor" x="24" y="403.097" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="2.77419s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="2.77419s" dur="0.06452s"/>
+</rect>
+<text x="24" y="418.044" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-44)">                                 =######s##%%%%@%#s#*.`--:. ....`:-+-``::```...````.``.............              ...``::::---:::```.... ..       ..                                 </text>
+<rect class="cursor" x="24" y="411.355" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="2.83871s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="2.83871s" dur="0.06452s"/>
+</rect>
+<text x="24" y="426.302" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-45)">                                 :#%#%%ss#%%%%%%%###c`.::`. .`:=****=:::``.....```.`````.......... .                 .....`````.......            ..                                </text>
+<rect class="cursor" x="24" y="419.613" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="2.90323s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="2.90323s" dur="0.06452s"/>
+</rect>
+<text x="24" y="434.560" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-46)">                                  =##%%####%%%%%%%%%#=..``. `-=+===-:-=`   ....``````..`.......... .                    .......     .               .                               </text>
+<rect class="cursor" x="24" y="427.871" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="2.96774s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="2.96774s" dur="0.06452s"/>
+</rect>
+<text x="24" y="442.818" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-47)">                                   -%%###%##%%%@%%%%#c:..`` `-:``:`-=++       ..````````........... .                   ....                         .                              </text>
+<rect class="cursor" x="24" y="436.129" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="3.03226s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="3.03226s" dur="0.06452s"/>
+</rect>
+<text x="24" y="451.076" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-48)">                                    *%###%%%%%%%%%%##s=. .` .:. .`-===:       .`````````...............                             ....              ..                            </text>
+<rect class="cursor" x="24" y="444.387" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="3.09677s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="3.09677s" dur="0.06452s"/>
+</rect>
+<text x="24" y="459.334" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-49)">                                     *%##%%%@%%%%@%#s*=:. `. ...:-=--::`.......```````````...............                         ..`..                .                            </text>
+<rect class="cursor" x="24" y="452.645" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="3.16129s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="3.16129s" dur="0.06452s"/>
+</rect>
+<text x="24" y="467.592" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-50)">                                     .s%%%%%%%%%%%##sc=-:..`:..  ...`::::.``..`::``````````................                     ...``.                  :                           </text>
+<rect class="cursor" x="24" y="460.903" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="3.22581s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="3.22581s" dur="0.06452s"/>
+</rect>
+<text x="24" y="475.850" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-51)">                                      -#%%%%%%%%%%%##c=--:..`:`..    ..`:```..`:::```````````................  .               ...`:`..        ..``````.:                           </text>
+<rect class="cursor" x="24" y="469.161" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="3.29032s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="3.29032s" dur="0.06452s"/>
+</rect>
+<text x="24" y="484.108" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-52)">                                       -#%%%%%@@%%%%#c+-:::.   ..```....`:```.`:::`::````::```..............                  ...``--``...   ..`:-----::                            </text>
+<rect class="cursor" x="24" y="477.419" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="3.35484s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="3.35484s" dur="0.06452s"/>
+</rect>
+<text x="24" y="492.366" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-53)">                                        `c%%%%@%%#%%#c*-::-:.   ..`:::::`.`````::::::::::::`````................              ..```:+=:``::-++**c*====:                             </text>
+<rect class="cursor" x="24" y="485.677" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="3.41935s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="3.41935s" dur="0.06452s"/>
+</rect>
+<text x="24" y="500.625" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-54)">                                         `s@@%%%%%%%%sc=-:::-:.   ....   .````:--:-::-::::-:::::```............              ...`...:+++**ccccc*cc=-:                               </text>
+<rect class="cursor" x="24" y="493.935" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="3.48387s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="3.48387s" dur="0.06452s"/>
+</rect>
+<text x="24" y="508.883" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-55)">                                          `s%%@%%%%%%#c+-:::::::.       `::```:-----:---:::::::::`:````........ ..  .       ....... ..`-=++cc*c*+s*`                                </text>
+<rect class="cursor" x="24" y="502.194" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="3.54839s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="3.54839s" dur="0.06452s"/>
+</rect>
+<text x="24" y="517.141" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-56)">                                           :s%%%%%%%%#s*-:::::::-::```:-++-:::-::----:---:-::-:::```::`````.............. .........  .``:=cssc*scc#s:                               </text>
+<rect class="cursor" x="24" y="510.452" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="3.61290s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="3.61290s" dur="0.06452s"/>
+</rect>
+<text x="24" y="525.399" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-57)">                                            .*%%%@%%#ss*-::::::::----==++=::::-:--==-----------::`::::::``::``....................```-==+cssscc#ss##*                               </text>
+<rect class="cursor" x="24" y="518.710" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="3.67742s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="3.67742s" dur="0.06452s"/>
+</rect>
+<text x="24" y="533.657" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-58)">                                              *%@%%%#sc*-:::::::::::-----:::::--=-==---===------::::---:::::::`::.`....`...`````:-=+*c+cccsssscsss##s`                              </text>
+<rect class="cursor" x="24" y="526.968" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="3.74194s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="3.74194s" dur="0.06452s"/>
+</rect>
+<text x="24" y="541.915" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-59)">                                               :s%%#ssc+-::::::::::::::::::::---===+==-===-------:::---::---:-----::::```````::-*ccccccc**cc**+-::=##:                              </text>
+<rect class="cursor" x="24" y="535.226" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="3.80645s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="3.80645s" dur="0.06452s"/>
+</rect>
+<text x="24" y="550.173" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-60)">                                                `c%#ccc+--::::`::::::::::::::--============--==-----=---:--==-====----:::```:--*cs##scccc*c*c***++c##:                              </text>
+<rect class="cursor" x="24" y="543.484" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="3.87097s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="3.87097s" dur="0.06452s"/>
+</rect>
+<text x="24" y="558.431" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-61)">                                                 .c#c**+--::::``````::::::::--==+++++=+==+====+======-=-:===++==++===-=--:`::+cssssccc*++=---=+++s##+                               </text>
+<rect class="cursor" x="24" y="551.742" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="3.93548s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="3.93548s" dur="0.06452s"/>
+</rect>
+<text x="24" y="566.689" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-62)">                                                  :#c*+=--::::`````````:::::--=**+**+++=++=+=++==+++===+=+==*++*++=+====-:---*c*+=--::::::`````:`+#=                                </text>
+<rect class="cursor" x="24" y="560.000" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="4.00000s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="4.00000s" dur="0.06452s"/>
+</rect>
+<text x="24" y="574.947" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-63)">                                                   -c++=-:::::```````````:::-==*****+**+*+++==++*+++++=+**=+*+*c*+++++=+=-=-==-::::::`::::::::::::*.                                </text>
+<rect class="cursor" x="24" y="568.258" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="4.06452s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="4.06452s" dur="0.06452s"/>
+</rect>
+<text x="24" y="583.205" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-64)">                                                   .++=--:::::```````````::--==+*cc******+**++++**+++*+**c*+*******++++*++=---::``````:--=+*csc**++                                 </text>
+<rect class="cursor" x="24" y="576.516" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="4.12903s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="4.12903s" dur="0.06452s"/>
+</rect>
+<text x="24" y="591.463" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-65)">                                                    -+=-:::::``````.`````::---=+*cccc*cc*+*c*****+*c**+**cc+*c***c*+**c**+=---:::::::::-=+c#%%#s*c-                                 </text>
+<rect class="cursor" x="24" y="584.774" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="4.19355s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="4.19355s" dur="0.06452s"/>
+</rect>
+<text x="24" y="599.721" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-66)">                                                    :=-::::::``````..````:::--++*cccscc*c***cc*cs***ccc*ccc**ccc*c*c**cc*+===----------===*s%%#*++.                                 </text>
+<rect class="cursor" x="24" y="593.032" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="4.25806s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="4.25806s" dur="0.06452s"/>
+</rect>
+<text x="24" y="607.979" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-67)">                                                    `=-::::::````````````:::--++*ccssscccsc*ccccccccccccccsccsscccccccsc*+==----:-::::::```:+cc**.                                  </text>
+<rect class="cursor" x="24" y="601.290" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="4.32258s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="4.32258s" dur="0.06452s"/>
+</rect>
+<text x="24" y="616.237" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-68)">                                                    :-:::::::`````.```````::--=+cscss#sss#ccsscccsscscsss##scsssssssccsscc**+=---::`````::--=+*c*`                                  </text>
+<rect class="cursor" x="24" y="609.548" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="4.38710s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="4.38710s" dur="0.06452s"/>
+</rect>
+<text x="24" y="624.495" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-69)">                                                    -::::::::`````````````::::-=+**s######ss#sssssss##ssc##ssss##########ssccc+++=++---==++++*c*cc=                                 </text>
+<rect class="cursor" x="24" y="617.806" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="4.45161s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="4.45161s" dur="0.06452s"/>
+</rect>
+<text x="24" y="632.754" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-70)">                                                   .::::``:::`````````````:::----=+**css######ssss####sss####%#%%%%%%%###s#sscc**ccc********ccc*css=                                </text>
+<rect class="cursor" x="24" y="626.065" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="4.51613s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="4.51613s" dur="0.06452s"/>
+</rect>
+<text x="24" y="641.012" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-71)">                                                   ::::````:::````````````:::---==-===+ccs#######%%%%###%#%#%%%%%%%%##%%#####sscssccscsccccsccscssss-                               </text>
+<rect class="cursor" x="24" y="634.323" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="4.58065s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="4.58065s" dur="0.06452s"/>
+</rect>
+<text x="24" y="649.270" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-72)">                                                  .::::`````::```````````:::::-----=====++*s#%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%%#####s##sssscssssss####*                               </text>
+<rect class="cursor" x="24" y="642.581" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="4.64516s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="4.64516s" dur="0.06452s"/>
+</rect>
+<text x="24" y="657.528" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-73)">                                                  :::```````::```````````::::::------=====+++*cs#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%@%#%%########ss##%%#c`                              </text>
+<rect class="cursor" x="24" y="650.839" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="4.70968s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="4.70968s" dur="0.06452s"/>
+</rect>
+<text x="24" y="665.786" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-74)">                                                 ::::````````::`````````::::::::-----====+++++***cs###%%%%%%%%%%%%%%%%%@@@%%%%%@%%%%%%%%#%######%%%ss`                              </text>
+<rect class="cursor" x="24" y="659.097" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="4.77419s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="4.77419s" dur="0.06452s"/>
+</rect>
+<text x="24" y="674.044" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-75)">                                               .::::``````````::``````````::::--:------====+++++***ccccs#%%%%%%%@%%%%%@%%%%@@@%%%%%%%%%%%%%#%%%%%%##*                               </text>
+<rect class="cursor" x="24" y="667.355" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="4.83871s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="4.83871s" dur="0.06452s"/>
+</rect>
+<text x="24" y="682.302" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-76)">                                              `:::::````````::`:```````````:::-----------======+++****cccss###%%@%%%%%%%%%%%%@%%%%%%%%%%@%%%%%%####c:                               </text>
+<rect class="cursor" x="24" y="675.613" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="4.90323s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="4.90323s" dur="0.06452s"/>
+</rect>
+<text x="24" y="690.560" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-77)">                                              :::::``````````::``````````:```:::-----------=====++++********cs###%%%%%%%%%%%%%%%%@%@%%%@%%%%%%%%#s+.                                </text>
+<rect class="cursor" x="24" y="683.871" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="4.96774s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="4.96774s" dur="0.06452s"/>
+</rect>
+<text x="24" y="698.818" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-78)">                                               ``::```````````::`````````````::::::-------======+++++********cccs##%%%%%%%%@@%%%%@%%%%%%%%%%%#c*=`                                  </text>
+<rect class="cursor" x="24" y="692.129" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="5.03226s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="5.03226s" dur="0.06452s"/>
+</rect>
+<text x="24" y="707.076" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-79)">                                                .:````````````:::````````````:::::::------======++++++*****ccccccccsc-=+*cccs%%%#%%######sc*=:.                                     </text>
+<rect class="cursor" x="24" y="700.387" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="5.09677s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="5.09677s" dur="0.06452s"/>
+</rect>
+<text x="24" y="715.334" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-80)">                                                  `:```:``````:::`````````````:::::::::-----======+++++****ccccccccc.        `:`.`:`...``                                           </text>
+<rect class="cursor" x="24" y="708.645" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="5.16129s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="5.16129s" dur="0.06452s"/>
+</rect>
+<text x="24" y="723.592" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-81)">                                                    `:`::`````::`:`````````````:::::::::----======++++*******cccccc-                                                                </text>
+<rect class="cursor" x="24" y="716.903" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="5.22581s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="5.22581s" dur="0.06452s"/>
+</rect>
+<text x="24" y="731.850" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-82)">                                                      ``:`:```:::```````````````:::::::::---=====+++++*********ccc*                                                                 </text>
+<rect class="cursor" x="24" y="725.161" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="5.29032s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="5.29032s" dur="0.06452s"/>
+</rect>
+<text x="24" y="740.108" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-83)">                                                        ````:``:::```````````````:::::::------====+++++++++*****cc:                                                                 </text>
+<rect class="cursor" x="24" y="733.419" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="5.35484s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="5.35484s" dur="0.06452s"/>
+</rect>
+<text x="24" y="748.366" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-84)">                                                          .````::::``````````````:::::::-----=====++++==++++*****+                                                                  </text>
+<rect class="cursor" x="24" y="741.677" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="5.41935s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="5.41935s" dur="0.06452s"/>
+</rect>
+<text x="24" y="756.625" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-85)">                                                             `:``:::`````````````:::::::-----============++++*+-.                                                                   </text>
+<rect class="cursor" x="24" y="749.935" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="5.48387s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="5.48387s" dur="0.06452s"/>
+</rect>
+<text x="24" y="764.883" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-86)">                                                                `````````````````:::::::------===-----======-`                                                                      </text>
+<rect class="cursor" x="24" y="758.194" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="5.54839s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="5.54839s" dur="0.06452s"/>
+</rect>
+<text x="24" y="773.141" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-87)">                                                                   `:```````````::::::-------------------:.                                                                         </text>
+<rect class="cursor" x="24" y="766.452" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="5.61290s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="5.61290s" dur="0.06452s"/>
+</rect>
+<text x="24" y="781.399" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-88)">                                                                       .`````````:::::::----:::::::::`.                                                                             </text>
+<rect class="cursor" x="24" y="774.710" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="5.67742s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="5.67742s" dur="0.06452s"/>
+</rect>
+<text x="24" y="789.657" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-89)">                                                                            .```::----------:::`..                                                                                  </text>
+<rect class="cursor" x="24" y="782.968" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="5.74194s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="5.74194s" dur="0.06452s"/>
+</rect>
+<text x="24" y="797.915" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-90)">                                                                                                                                                                                    </text>
+<rect class="cursor" x="24" y="791.226" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="5.80645s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="5.80645s" dur="0.06452s"/>
+</rect>
+<text x="24" y="806.173" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-91)">                                                                                                                                                                                    </text>
+<rect class="cursor" x="24" y="799.484" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="5.87097s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="5.87097s" dur="0.06452s"/>
+</rect>
+<text x="24" y="814.431" font-size="7.3" fill="#c9d1d9" xml:space="preserve" textLength="792" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-92)">                                                                                                                                                                                    </text>
+<rect class="cursor" x="24" y="807.742" width="4.4" height="8.258" fill="#c9d1d9" visibility="hidden">
+<set attributeName="visibility" to="visible" begin="5.93548s" dur="0.06452s"/>
+<animate attributeName="x" from="24" to="816" begin="5.93548s" dur="0.06452s"/>
+</rect>
+<path d="M1 838 H839" stroke="#30363d"/>
+<text x="20" y="862" font-size="12" fill="#7d8590" >fahad@github:~$ whoami</text>
+<text x="244" y="862" font-size="13" fill="#e6edf3" >Fahad Arshad</text>
+</g></svg>
