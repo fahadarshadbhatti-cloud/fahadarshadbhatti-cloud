@@ -60,7 +60,7 @@
 <text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">492</text>
 </g>
 <text x="38" y="246" font-size="25" fill="#e6edf3" >in the last 365 days</text>
-<text x="38" y="279" font-size="18" fill="#7d8590" >2025-10-28 — 2026-10-27 · UTC</text>
+<text x="38" y="279" font-size="18" fill="#7d8590" >2025-10-29 — 2026-10-28 · UTC</text>
 <path d="M36 308 H804" stroke="#30363d"/>
 <text x="38" y="346" font-size="22" fill="#7d8590" >active days</text>
 <g class="number-steps" visibility="hidden">
