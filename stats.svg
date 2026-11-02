@@ -60,7 +60,7 @@
 <text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">499</text>
 </g>
 <text x="38" y="246" font-size="25" fill="#e6edf3" >in the last 365 days</text>
-<text x="38" y="279" font-size="18" fill="#7d8590" >2025-11-02 — 2026-11-01 · UTC</text>
+<text x="38" y="279" font-size="18" fill="#7d8590" >2025-11-03 — 2026-11-02 · UTC</text>
 <path d="M36 308 H804" stroke="#30363d"/>
 <text x="38" y="346" font-size="22" fill="#7d8590" >active days</text>
 <g class="number-steps" visibility="hidden">
@@ -166,10 +166,10 @@
 <text x="296" y="400" font-size="46" fill="#e6edf3" font-weight="700">0</text>
 </g>
 <g class="number-final"><set attributeName="visibility" to="hidden" begin="0s" dur=".9s" fill="remove"/>
-<text x="296" y="400" font-size="46" fill="#e6edf3" font-weight="700">1</text>
+<text x="296" y="400" font-size="46" fill="#e6edf3" font-weight="700">0</text>
 </g>
-<text x="335.6" y="400" font-size="21" fill="#7d8590" >day</text>
-<text x="296" y="431" font-size="17" fill="#7d8590" >Oct 31 – Oct 31</text>
+<text x="335.6" y="400" font-size="21" fill="#7d8590" >days</text>
+<text x="296" y="431" font-size="17" fill="#7d8590" >No active streak</text>
 <text x="554" y="346" font-size="22" fill="#7d8590" >longest streak</text>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.000s" dur=".075s" fill="remove"/>
