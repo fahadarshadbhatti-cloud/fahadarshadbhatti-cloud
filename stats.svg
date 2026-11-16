@@ -14,53 +14,53 @@
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.075s" dur=".075s" fill="remove"/>
-<text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">43</text>
+<text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">44</text>
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.150s" dur=".075s" fill="remove"/>
-<text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">87</text>
+<text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">88</text>
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.225s" dur=".075s" fill="remove"/>
-<text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">131</text>
+<text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">132</text>
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.300s" dur=".075s" fill="remove"/>
-<text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">175</text>
+<text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">176</text>
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.375s" dur=".075s" fill="remove"/>
-<text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">219</text>
+<text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">220</text>
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.450s" dur=".075s" fill="remove"/>
-<text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">263</text>
+<text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">264</text>
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.525s" dur=".075s" fill="remove"/>
-<text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">307</text>
+<text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">308</text>
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.600s" dur=".075s" fill="remove"/>
-<text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">351</text>
+<text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">352</text>
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.675s" dur=".075s" fill="remove"/>
-<text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">395</text>
+<text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">396</text>
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.750s" dur=".075s" fill="remove"/>
-<text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">439</text>
+<text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">440</text>
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.825s" dur=".075s" fill="remove"/>
-<text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">483</text>
+<text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">484</text>
 </g>
 <g class="number-final"><set attributeName="visibility" to="hidden" begin="0s" dur=".9s" fill="remove"/>
-<text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">527</text>
+<text x="32" y="205" font-size="104" fill="#39d353" font-weight="700">529</text>
 </g>
 <text x="38" y="246" font-size="25" fill="#e6edf3" >in the last 365 days</text>
-<text x="38" y="279" font-size="18" fill="#7d8590" >2025-11-16 — 2026-11-15 · UTC</text>
+<text x="38" y="279" font-size="18" fill="#7d8590" >2025-11-17 — 2026-11-16 · UTC</text>
 <path d="M36 308 H804" stroke="#30363d"/>
 <text x="38" y="346" font-size="22" fill="#7d8590" >active days</text>
 <g class="number-steps" visibility="hidden">
@@ -77,7 +77,7 @@
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.225s" dur=".075s" fill="remove"/>
-<text x="38" y="400" font-size="46" fill="#e6edf3" font-weight="700">25</text>
+<text x="38" y="400" font-size="46" fill="#e6edf3" font-weight="700">26</text>
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.300s" dur=".075s" fill="remove"/>
@@ -85,11 +85,11 @@
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.375s" dur=".075s" fill="remove"/>
-<text x="38" y="400" font-size="46" fill="#e6edf3" font-weight="700">42</text>
+<text x="38" y="400" font-size="46" fill="#e6edf3" font-weight="700">43</text>
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.450s" dur=".075s" fill="remove"/>
-<text x="38" y="400" font-size="46" fill="#e6edf3" font-weight="700">51</text>
+<text x="38" y="400" font-size="46" fill="#e6edf3" font-weight="700">52</text>
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.525s" dur=".075s" fill="remove"/>
@@ -97,22 +97,22 @@
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.600s" dur=".075s" fill="remove"/>
-<text x="38" y="400" font-size="46" fill="#e6edf3" font-weight="700">68</text>
+<text x="38" y="400" font-size="46" fill="#e6edf3" font-weight="700">69</text>
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.675s" dur=".075s" fill="remove"/>
-<text x="38" y="400" font-size="46" fill="#e6edf3" font-weight="700">77</text>
+<text x="38" y="400" font-size="46" fill="#e6edf3" font-weight="700">78</text>
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.750s" dur=".075s" fill="remove"/>
-<text x="38" y="400" font-size="46" fill="#e6edf3" font-weight="700">85</text>
+<text x="38" y="400" font-size="46" fill="#e6edf3" font-weight="700">86</text>
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.825s" dur=".075s" fill="remove"/>
-<text x="38" y="400" font-size="46" fill="#e6edf3" font-weight="700">94</text>
+<text x="38" y="400" font-size="46" fill="#e6edf3" font-weight="700">95</text>
 </g>
 <g class="number-final"><set attributeName="visibility" to="hidden" begin="0s" dur=".9s" fill="remove"/>
-<text x="38" y="400" font-size="46" fill="#e6edf3" font-weight="700">103</text>
+<text x="38" y="400" font-size="46" fill="#e6edf3" font-weight="700">104</text>
 </g>
 <text x="132.8" y="400" font-size="21" fill="#7d8590" >days</text>
 <text x="38" y="431" font-size="17" fill="#7d8590" >days with activity</text>
@@ -131,7 +131,7 @@
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.225s" dur=".075s" fill="remove"/>
-<text x="296" y="400" font-size="46" fill="#e6edf3" font-weight="700">0</text>
+<text x="296" y="400" font-size="46" fill="#e6edf3" font-weight="700">1</text>
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.300s" dur=".075s" fill="remove"/>
@@ -143,11 +143,11 @@
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.450s" dur=".075s" fill="remove"/>
-<text x="296" y="400" font-size="46" fill="#e6edf3" font-weight="700">1</text>
+<text x="296" y="400" font-size="46" fill="#e6edf3" font-weight="700">2</text>
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.525s" dur=".075s" fill="remove"/>
-<text x="296" y="400" font-size="46" fill="#e6edf3" font-weight="700">1</text>
+<text x="296" y="400" font-size="46" fill="#e6edf3" font-weight="700">2</text>
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.600s" dur=".075s" fill="remove"/>
@@ -155,21 +155,21 @@
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.675s" dur=".075s" fill="remove"/>
-<text x="296" y="400" font-size="46" fill="#e6edf3" font-weight="700">2</text>
+<text x="296" y="400" font-size="46" fill="#e6edf3" font-weight="700">3</text>
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.750s" dur=".075s" fill="remove"/>
-<text x="296" y="400" font-size="46" fill="#e6edf3" font-weight="700">2</text>
+<text x="296" y="400" font-size="46" fill="#e6edf3" font-weight="700">3</text>
 </g>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.825s" dur=".075s" fill="remove"/>
-<text x="296" y="400" font-size="46" fill="#e6edf3" font-weight="700">2</text>
-</g>
-<g class="number-final"><set attributeName="visibility" to="hidden" begin="0s" dur=".9s" fill="remove"/>
 <text x="296" y="400" font-size="46" fill="#e6edf3" font-weight="700">3</text>
 </g>
+<g class="number-final"><set attributeName="visibility" to="hidden" begin="0s" dur=".9s" fill="remove"/>
+<text x="296" y="400" font-size="46" fill="#e6edf3" font-weight="700">4</text>
+</g>
 <text x="335.6" y="400" font-size="21" fill="#7d8590" >days</text>
-<text x="296" y="431" font-size="17" fill="#7d8590" >Nov 12 – Nov 14</text>
+<text x="296" y="431" font-size="17" fill="#7d8590" >Nov 12 – Nov 15</text>
 <text x="554" y="346" font-size="22" fill="#7d8590" >longest streak</text>
 <g class="number-steps" visibility="hidden">
 <set attributeName="visibility" to="visible" begin="0.000s" dur=".075s" fill="remove"/>
@@ -306,9 +306,9 @@
 <text x="720.23" y="595.44" font-size="17" fill="#e6edf3" text-anchor="middle">152</text>
 <text x="720.23" y="794" font-size="17" fill="#7d8590" text-anchor="middle">Oct</text>
 </g>
-<g><title>2026-11: 28 contributions (window only)</title>
+<g><title>2026-11: 30 contributions (window only)</title>
 <g class="bar" style="transform-origin:759.88px 764px;animation:grow .55s ease 0.78s both">
-<rect x="759.88" y="735.16" width="32.39" height="28.84" rx="2" fill="#26a641" />
+<rect x="759.88" y="733.10" width="32.39" height="30.90" rx="2" fill="#26a641" />
 </g>
 <text x="776.08" y="794" font-size="17" fill="#7d8590" text-anchor="middle">Nov</text>
 </g>
